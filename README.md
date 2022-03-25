@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Erina777
 - 👀 I’m interested in learning how to code.
-- 🌱 I’m currently learning AWS.
-- 💞️ I’m looking to collaborate on AWS CDK project.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to change my profession.
 - 📫 How to reach me: here.
 
 <!---
